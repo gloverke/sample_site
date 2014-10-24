@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" hash="202601230">
+    <data-source source="LOCAL" name="Rails sample_site: development" uuid="ed00d7f9-9edc-43ef-8163-c49356187765">
+      <driver-ref>mysql</driver-ref>
+      <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://127.0.0.1/samples</jdbc-url>
+      <user-name>samples</user-name>
+      <user-password>dfd9dfcbdfc7dfdadfc6dfcfdfd9</user-password>
+      <libraries />
+    </data-source>
+    <data-source source="LOCAL" name="Rails sample_site: test" uuid="f18efd30-edf9-4155-a72d-30e20c890942">
+      <driver-ref>mysql</driver-ref>
+      <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://127.0.0.1/samples_test</jdbc-url>
+      <user-name>samples</user-name>
+      <user-password>dfd9dfcbdfc7dfdadfc6dfcfdfd9</user-password>
+      <libraries />
+    </data-source>
+    <data-source source="LOCAL" name="Rails sample_site: production" uuid="4f9bc5ec-86ab-489d-b8cb-5a6d9d21f763">
+      <driver-ref>mysql</driver-ref>
+      <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://127.0.0.1/samples_prod</jdbc-url>
+      <user-name>samples</user-name>
+      <user-password>dfd9dfcbdfc7dfdadfc6dfcfdfd9</user-password>
+      <libraries />
+    </data-source>
+  </component>
+</project>
+

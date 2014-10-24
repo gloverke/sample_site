@@ -1,10 +1,20 @@
 source 'https://rubygems.org'
 
+gem 'simple_chat', :git => 'https://github.com/gloverke/simple_chat.git'
+gem 'puma'
+gem 'gon'
+gem 'redis'
+gem "jquery-ui-rails"
+gem 'handlebars_assets'
+gem 'bootstrap-sass'
+gem 'autoprefixer-rails'
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '4.1.5'
 # Use sqlite3 as the database for Active Record
-gem 'sqlite3'
+#gem 'sqlite3'
+gem 'mysql2'
+
 # Use SCSS for stylesheets
 gem 'sass-rails', '~> 4.0.3'
 # Use Uglifier as compressor for JavaScript assets

@@ -1,4 +1,8 @@
 Rails.application.routes.draw do
+
+
+  mount SimpleChat::Engine, at: "/simple_chat"
+
   # The priority is based upon order of creation: first created -> highest priority.
   # See how all your routes lay out with "rake routes".
 
