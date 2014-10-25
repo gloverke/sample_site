@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/gloverke/simple_chat.git
-  revision: 80a9a6799fa721db2547433a2846c9f88edbe2c4
+  revision: 12d274759340b5c9883c9b5fdbcdf855f8ef9d61
   specs:
     simple_chat (0.0.1)
       autoprefixer-rails
