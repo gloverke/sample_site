@@ -1,5 +1,7 @@
 source 'https://rubygems.org'
 
+ruby '2.1.2'
+
 gem 'simple_chat', :git => 'https://github.com/gloverke/simple_chat.git'
 gem 'puma'
 gem 'gon'
@@ -8,6 +10,7 @@ gem "jquery-ui-rails"
 gem 'handlebars_assets'
 gem 'bootstrap-sass'
 gem 'autoprefixer-rails'
+gem 'rails_12factor'
 
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
