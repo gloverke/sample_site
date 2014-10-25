@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="85bef6cb-baac-48b1-9997-4a4f14f5e7a1" name="Default" comment="" />
+    <list default="true" id="85bef6cb-baac-48b1-9997-4a4f14f5e7a1" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gemfile" afterPath="$PROJECT_DIR$/Gemfile" />
+    </list>
     <ignored path="sample_site.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -58,7 +60,10 @@
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="209">
               <caret line="2" column="10" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="10" />
-              <folding />
+              <folding>
+                <marker date="1414192010000" expanded="true" signature="23:69" placeholder=" ... end" />
+                <marker date="1414192010000" expanded="true" signature="59:65" placeholder=" ... end" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -154,12 +159,13 @@
         <option value="$PROJECT_DIR$/app/views/landing/home.html.erb" />
         <option value="$PROJECT_DIR$/app/assets/stylesheets/application.css.scss" />
         <option value="$PROJECT_DIR$/app/assets/javascripts/application.js" />
+        <option value="$PROJECT_DIR$/Gemfile" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="262" />
-    <option name="y" value="74" />
+    <option name="y" value="22" />
     <option name="width" value="1560" />
     <option name="height" value="893" />
   </component>
@@ -573,7 +579,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="262" y="74" width="1560" height="893" extended-state="0" />
+    <frame x="262" y="22" width="1560" height="893" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -676,7 +682,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="209">
           <caret line="2" column="10" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="10" />
-          <folding />
+          <folding>
+            <marker date="1414192010000" expanded="true" signature="23:69" placeholder=" ... end" />
+            <marker date="1414192010000" expanded="true" signature="59:65" placeholder=" ... end" />
+          </folding>
         </state>
       </provider>
     </entry>
