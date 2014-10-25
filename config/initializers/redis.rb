@@ -1,4 +1,3 @@
-logger.info "Attaching to Redis URL: #{ENV["REDISCLOUD_URL"].to_s}" 
 if ENV["REDISCLOUD_URL"]
     $redis = Redis.new(:url => ENV["REDISCLOUD_URL"])
 else
